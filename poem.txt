@@ -1,9 +1,9 @@
 The Rainbow 
-v
-i
-b
-g
-y
-o
-r
+v - violet
+i - indigo
+b - blue
+g - green
+y - yellow
+o - orange
+r - red
 these are the colors of rainbow.
