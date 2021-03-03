@@ -1,11 +1,13 @@
-The Rainbow and the Unicorn and ponies
-V - violet
-I - indigo
-B - blue
-G - green
-Y - yellow
-O - orange
-R - red
+
+The Rainbow and the Unicorn
+V - Violet
+I - Indigo
+B - Blue
+G - Green
+Y - Yellow
+O - Orange
+R - Red
+
 these are the colors of rainbow.
 And the unicorn.
 Pony
