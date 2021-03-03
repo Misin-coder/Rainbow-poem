@@ -1,4 +1,4 @@
-The Rainbow 
+The Rainbow and the Unicorn
 V - violet
 I - indigo
 B - blue
@@ -7,3 +7,4 @@ Y - yellow
 O - orange
 R - red
 these are the colors of rainbow.
+And the unicorn.
